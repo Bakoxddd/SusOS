@@ -1,2 +1,0 @@
-# SusOS
-web OS
